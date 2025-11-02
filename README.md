@@ -45,6 +45,8 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 > We're handling ~230m requests per month (~88 rps) on Laravel across 3 linked sites. Original codebase was written in Laravel 4, but has been upgraded along the way, and now on L11. Monoliths, fully tested, strong typehints.
 
+---
+
 [Al Kafi on LinkedIn](https://www.linkedin.com/in/al-kafi-sohag/):
 
 > Our high-performance web application, built with Laravel 12 backend and Blade + Tailwind CSS frontend, handles 109M+ requests monthly.
