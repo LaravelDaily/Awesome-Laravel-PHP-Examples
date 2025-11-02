@@ -36,13 +36,13 @@ I'm still not sure about the **structure** of this repository. For now, it's all
 
 [Jack Ellis from Fathom Analytics: Does Laravel Scale?](https://usefathom.com/blog/does-laravel-scale)
 
-> Awesome long article, with a conclusion that Laravel is a fantastic choice for 99.99994%+ of web applications.
+Awesome long article, with a conclusion that Laravel is a fantastic choice for 99.99994%+ of web applications. For large projects, Laravel will NOT be the main bottleneck.
 
 ---
 
 [Mathias Hansen: How Geocodio keeps 300M addresses up to date](https://www.geocod.io/code-and-coordinates/2025-01-13-how-geocodio-keeps-300M-addresses-up-to-date/)
 
-> The entire platform is built on Laravel and uses Laravel Nova. They also make heavy use of queueing using Laravel Horizon.
+Their entire platform is built on Laravel and uses Laravel Nova. They also make heavy use of queueing using Laravel Horizon.
 
 ---
 
@@ -75,3 +75,7 @@ The remarkable success of Laravel Octane in our project can be largely credited 
 - [Tighten: Built with Laravel: A curated catalog of organizations using Laravel](https://builtwithlaravel.com/)
 - [Laravel Daily: 10 Large Open-Source Projects Built with Laravel](https://laraveldaily.com/post/large-laravel-open-source-projects)
 - [KrishaWeb: Best Use Cases for Custom Laravel Web Development In 2025](https://www.krishaweb.com/blog/best-laravel-web-development-use-cases-to-explore/)
+
+---
+
+You know more stories about Laravel/PHP in bigger projects? Contribute a Pull Request or email me povilas@laraveldaily.com
