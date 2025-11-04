@@ -73,7 +73,9 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 [Lwin Maung on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7391090113990082560?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7391090113990082560%2C7391107474365284352%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287391107474365284352%2Curn%3Ali%3Aactivity%3A7391090113990082560%29)
 
-> Tiny PHP project ([source on GitHub](https://github.com/lwinmaungmaung/election2020)) but hit 2M/day traffic for Myanmar Election 2020. 
+> Tiny PHP project ([source on GitHub](https://github.com/lwinmaungmaung/election2020)) but hit 2M/day traffic for Myanmar Election 2020.
+
+![](./images/myanmar-election2020-analytics.png)
 
 ---
 
