@@ -7,8 +7,8 @@ The goal is to share stories by **real** people, with **real** names, with traff
 ## Table of Contents
 
 - [In-Depth Stories/Articles](#in-depth-storiesarticles) (8 articles)
-- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (10 posts)
-- [Lists of Projects Built with Laravel/PHP](#lists-of-projects-built-with-laravelphp) (6 lists)
+- [Social Media Posts with Numbers](#social-media-posts-with-numbers) (12 posts)
+- [Lists of Projects Built with Laravel/PHP](#lists-of-projects-built-with-laravelphp) (8 lists)
 - [Smaller/Hobby Projects Built with Laravel/PHP](#smaller-ish-projects-built-with-laravelphp) (10 stories)
 
 ---
@@ -142,6 +142,18 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 
 ---
 
+[User External-Working-551 on Reddit](https://www.reddit.com/r/PHP/comments/1opao4g/comment/nnepqw7/?context=1):
+
+> Leroy Merlin Brasil mantains a huge ecommerce made with Laravel, MongoDB and Elasticsearch, with over 15 million users, 2 million products, and $1M/day in sales
+
+---
+
+[Derrick Grigg on X](https://x.com/derrickgrigg/status/1986224210692243781):
+
+I originally built [PageProofer](https://PageProofer.com) on CodeIgniter and then switched to Laravel way back on version 7. ~53K users, ~$2.5k MMR, ~$300k lifetime revenue, loaded onto ~500k web pages per day.
+
+---
+
 ## Lists of Projects Built with Laravel/PHP
 
 - [Tighten: Built with Laravel: A curated catalog of organizations using Laravel](https://builtwithlaravel.com/)
@@ -150,6 +162,7 @@ React Native, the backend by Filament. Our server using Azure App Services with 
 - [Laravel Daily: 7 Large Open-Source Projects Built with Plain PHP (No Framework)](https://laraveldaily.com/post/8-large-open-source-php-projects-no-framework)
 - [BuiltWith: 600k+ Websites using Laravel](https://trends.builtwith.com/websitelist/Laravel)
 - [Success Stories: PHP-Powered Projects by Indian Development Firms](https://dev.to/ezeelive/success-stories-php-powered-projects-by-indian-development-firms-1nai)
+- [Laradevs: Profitable Businesses Built on Laravel](https://laradevs.com/blog/profitable-businesses-built-on-laravel)
 
 ---
 
